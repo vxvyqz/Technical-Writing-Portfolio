@@ -28,7 +28,8 @@ ServiceNow, Notion, Google Docs, Word, Markdown, GitHub, Grammarly
 ## Let’s connect
 
 Have feedback or want to work together?  
-Reach me at viveklokhande89@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/viveklokhande/)
+Reach me at viveklokhande72@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/viveklokhande/)
 
 
 Thanks for stopping by.
+
