@@ -14,13 +14,13 @@ Each piece is written with users in mind. Whether it’s a support team, a devel
 ## What’s inside
 
 /kb-articles → Knowledge base samples
-
 /sop-guides → Process guides and SOPs
-
 /dev-docs → API and dev-focused content
-
 /explainers → Long-form explainers and tutorials
 
+pgsql
+Copy
+Edit
 
 ## Tools I use
 
@@ -29,7 +29,6 @@ ServiceNow, Notion, Google Docs, Word, Markdown, GitHub, Grammarly
 ## Let’s connect
 
 Have feedback or want to work together?  
-Reach me at viveklokhande72@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/viveklokhande/)
-
+Reach me at viveklokhande89@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/viveklokhande/)
 
 Thanks for stopping by.
