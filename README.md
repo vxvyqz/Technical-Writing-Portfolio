@@ -1,6 +1,6 @@
 # Technical Writing Portfolio
 
-Hi, I’m Vivek Lokhande. This is a collection of my technical writing work — real examples that show how I turn complex, technical ideas into clear and useful content.
+Hi, I’m Vivek Lokhande. This is a collection of my technical writing work: real examples that show how I turn complex, technical ideas into clear and useful content.
 
 Inside, you’ll find:
 
@@ -32,5 +32,6 @@ Reach me at lokhandevivek72@gmail.com or connect on [LinkedIn](https://www.linke
 
 
 Thanks for stopping by.
+
 
 
